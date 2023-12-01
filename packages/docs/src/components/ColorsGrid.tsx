@@ -1,4 +1,4 @@
-import { colors } from '@ignite-ui/tokens'
+import { colors } from '@luc4sdev-ui/tokens'
 import { getContrast } from 'polished'
 
 

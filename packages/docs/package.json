@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@luc4sdev-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,8 +14,8 @@
     "deploy-storybook": "storybook-to-ghpages"
   },
   "dependencies": {
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@luc4sdev-ui/react": "*",
+    "@luc4sdev-ui/tokens": "*",
     "@storybook/addon-a11y": "^7.6.3",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
